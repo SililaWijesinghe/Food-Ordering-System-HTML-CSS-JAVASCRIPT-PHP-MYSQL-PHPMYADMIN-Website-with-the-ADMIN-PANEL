@@ -19,6 +19,10 @@ _**Getting Started**_
 * **Clone the Repository**: 
 git clone https://github.com/your-username/food-ordering-system.git
 
+_**or**_
+
+* **Download the source file zip** : S O U R C E  C O D E.zip
+
 * **Import the SQL file (food_db.sql) provided in the project folder into PHPMyAdmin to set up the database.**
 
 * **Adjust the database connection settings in the PHP files to match your environment.**
